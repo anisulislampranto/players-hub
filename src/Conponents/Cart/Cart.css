@@ -1,0 +1,25 @@
+.club-header{
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+    color: white;
+    text-align: center;
+}
+.summery-section{
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 5px;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+    color: white;
+    margin-top: 10px;
+
+}
+.summery-section h2 {
+    margin-left: 20px;
+}
+.summery-section h3 {
+    margin-left: 20px;
+}

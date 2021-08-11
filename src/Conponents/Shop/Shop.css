@@ -1,0 +1,13 @@
+.players-container{
+    display: flex;
+    width: 98%;
+    margin: 10px;
+    
+}
+.players{
+    width: 70%;
+    display: grid;
+    grid-template-columns: repeat(2, 48%); 
+    
+}
+
